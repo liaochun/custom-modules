@@ -1,6 +1,6 @@
 # Architecture
 
-A high-level map of how the Inoki Ops Platform is put together. No source code is included — this describes the shape of the system.
+A high-level map of how the platform is put together. No source code is included — this describes the shape of the system.
 
 ## The big picture
 

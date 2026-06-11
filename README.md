@@ -1,6 +1,6 @@
 # custom-modules
 
-A showcase of **Inoki Ops Platform** — a self-hosted internal operations system I designed and built to run a real consumer-products business (Inoki Bathhouse). It replaced a sprawling Airtable base and a separate workforce app with one platform that owns scheduling, time tracking, inventory, production, and a gradual migration off Airtable into a proper database.
+A showcase of an **internal operations platform** — a self-hosted system I designed and built to run a real consumer-products business. It replaced a sprawling Airtable base and a separate workforce app with one platform that owns scheduling, time tracking, inventory, production, and a gradual migration off Airtable into a proper database.
 
 > **This repository is a portfolio showcase, not the product.**
 > It documents the architecture, modules, and engineering decisions behind the platform. It intentionally contains **no runnable source code, configuration, secrets, or data**. You cannot clone and deploy this — that is by design. See [`LICENSE`](./LICENSE) and the notice at the bottom of this page.
